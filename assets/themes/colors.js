@@ -1,0 +1,9 @@
+export default{
+PRIMARY:"#4361EE",
+SECONDARY:"#3c32a8",
+ACCENT:"#4895EF",
+DANGER:"#ba0918",
+SUCCESS:"#4CC9F0",
+GREY:"#cdcdd1 ",
+WHITE:"#FFFFFF"
+}
